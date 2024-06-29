@@ -88,4 +88,4 @@ As would be expected of someone of my age, I have some retro and retro-simulatin
 - An Amiga One x5000
 - A Nintendo Wii
 - A Playstation 3 (slim)
-- A Raspberry Pi (Was a retro gaming device, nw just sits there waiting for a project!)
+- A Raspberry Pi (Was a retro gaming device, now just sits there waiting for a project!)
