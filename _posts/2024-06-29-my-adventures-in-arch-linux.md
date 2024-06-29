@@ -1,12 +1,12 @@
 ## My Adventures in Arch Linux
 
-So, what do you do when you are excited by the recent improvements in the Linux-gaming scene, and don't want to miss out? And what about when you are wanting to ditch windows anyway?
+So, what do you do when you are excited by the recent improvements in the Linux-gaming scene, and don't want to miss out? Considering you want to ditch Microsoft Windows anyway...
 
-Well, time to seriously investigate how I may be able to daily drive a Linux distribution.
+Well, time to seriously investigate the feasibility of daily driving a Linux distribution.
 
 _Which one?_
 
-That's a question I keep struggling with! At least as a non-enterprise Microsoft user, you either choose Home or Professional, 10 or 11. But Linux...
+That's a question I struggle with. For what it's worth, as a non-enterprise Microsoft user, you either choose Home or Professional, 10 or 11. But Linux...
 
 ...and then, does it even _have_ to be Linux? Why not a unix like Solaris, or one of the BSD OS flavours?
 
