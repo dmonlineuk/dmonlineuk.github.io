@@ -8,7 +8,7 @@ So, let me tell the story...
 
 ### To "Arch", or not to "Arch"
 
-I have no emotional attachment to software. At least I don't believe I do. And, for _most_ of the people out there that appear to get all "tribal" about their chosen OS, I do not believe they are emotionally attached either. But, how we interact with out computers is an emotional connection.
+I have no emotional attachment to software. At least I don't believe I do. And, for _most_ of the people out there that appear to get all "tribal" about their chosen OS, I do not believe they are emotionally attached either. But, how we interact with our computers is an emotional connection.
 
 Am I weird? Let me try to explain.
 
@@ -90,11 +90,11 @@ In any case, this proved to be ideal for my Gaming PCs once I was confident to r
 
 ### Printer/Scanner
 
-This is a pretty big ordeal for me unfortunately. I have a Lexmark CX310DN MFD device which works very well for what I need it to do, when using Windows. The catch here is that I have become very reliant on the in-built web UI and java-applet combination (:-O)
+This is a pretty big ordeal for me unfortunately. I have a Lexmark CX310DN MFD device which works very well for what I need it to do, when using Windows. The catch here is that I have become very reliant on the in-built web UI and java-applet combination (😯)
 
-I know, I know, what a security risk! But, since I know the applet and trust what it's doing, I kinda have been happy to continue to use it. It produces beautiful multi-page PDFs from my scans, in the exact paper dimensions I request, without needing third-party software. These days this can only be produced from using a fully NPAPI supporting browser (I use [Pale Moon](https://www.palemoon.org/)) and the official Sun Java download (always kept up-to-date of course!)
+I know, I know, what a security risk! But, since I know the applet and trust what it's doing, I kinda have been happy to continue to use it. It produces beautiful multi-page PDFs from my scans, in the exact paper dimensions I request, without needing third-party software. These days I find this can only be produced from using a fully NPAPI supporting browser (I use [Pale Moon](https://www.palemoon.org/)) and the official Sun Java download (always kept up-to-date of course!)
 
-For Linux, this is far from ideal. I have been able to get Pale Moon installed, but I am pretty certain there is nobody relly interested in the insecure retro-grade step of enabling an unsupported java applet be loose on Linux!
+For Linux, this is far from ideal. I have been able to get Pale Moon installed, but I am pretty certain there is nobody realy interested in the insecure retro-grade step of enabling an unsupported java applet and lettin git run loose on a Linux distribution!
 
 Oh well...I guess I'll keep my Windows VM on my UNRAID server around for just this purpose until I work out an alternative. One such alternative may be using bottles with the official Lexmark software and using that to capture scans to PDF. I can also use the printer's built-in scan-to-email function. Let's see what works in the long-run.
 

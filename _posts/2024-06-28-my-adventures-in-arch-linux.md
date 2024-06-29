@@ -10,14 +10,14 @@ That's a question I struggle with. For what it's worth, as a non-enterprise Micr
 
 ...and then, does it even _have_ to be Linux? Why not a unix like Solaris, or one of the BSD OS flavours?
 
-*sigh*
+😮‍💨
 
 So, I needed a steer. Since my motivation was partly a gaming one (e.g. Valve's success with the Steam Deck OS) I thought I'd start there!
 
 ### Steam _Deck_ OS ... er ... 3.0?
 (source: https://en.wikipedia.org/wiki/Steam_Deck)
 
-Turns out that the official OS for the Steam Deck is not _yet_ available as a stand-alone distribution. Now, since the Steam Machines of as far back as 2015, Valve has had a vested interest in having a Linux-based "SteamOS" and so that _is_ available to us, The Great Unwashed.<sup>TM</sup>
+Turns out that the official OS for the Steam Deck is not _yet_ available as a stand-alone distribution. Now, since the Steam Machines of as far back as 2015, Valve has had a vested interest in having a Linux-based "SteamOS" and so that _is_ available to us, The Great Unworthy Ones.<sup>TM</sup>
 
 But, as described in the wikipedia entry for the Steam Deck, these are based on two entirely different base distributions.
 
@@ -25,12 +25,12 @@ So what's the difference?
 
 This is where I learn something new! I stumbled upon this tidbit of information when watching a YouTube VOD by [Typecraft](https://www.youtube.com/@typecraft_dev):
 
-- Some distributions of Linux receive rolling updates, and
+- some distributions of Linux receive rolling updates, and
 - some distributions of Linux are locked into "versions"
 
-Ah! So when I install Ubuntu, I can choose a specific version, and there is no expectation that it will quietly and surreptitiously upgrade itself to a new version! That _might_ be important if you need to know from one day to the next over an extended period of time that the OS and software combination you rely on isn't going to suddenly develop a breaking change! That makes the entire LTS vs non_LTS versioning make so much more sense!
+🤔 Ah! So when I install Ubuntu, I can choose a specific version, and there is no expectation that it will quietly and surreptitiously upgrade itself to a new version! That _might_ be important if you need to know from one day to the next over an extended period of time that the OS and software combination you rely on isn't going to suddenly develop a breaking change! That makes the entire LTS vs non-LTS versioning make so much more sense!
 
-(I'm just imagining a world where a Windows version could suddenly fundamentally change behavious between updates, glad that _never_ happens ;-) /s)
+(I'm just imagining a world where a Windows version could suddenly fundamentally change behaviours between updates, glad _that never_ happens 😏)
 
 But if I am a casual, enthusiastic or hobbyist user, maybe there is some merit to trying the rolling-updating distribution...?
 
