@@ -37,7 +37,7 @@ So, here is a somewhat shortened list of what I have accumulated and have to use
 
 ### Two gaming PCs:
 
-First, this is my older machines, exists simply because it's worth more to me as a spare than split up and sold as parts:
+First, this is my older machine, exists simply because it's worth more to me as a spare than split up and sold as parts:
 
 - Ryzen 5 3600
 - 16GB RAM
@@ -66,14 +66,14 @@ It's an old surface. I can't bring myself to replace it yet, but I'm likely ot g
 
 ### Network
 
-My router is another PC that is jsut spare parts that I can't bring myself to part with:
+My router is another PC that is just spare parts that I can't bring myself to part with:
 
 - Ryzen 3 4100
 - 8GB RAM
 - 500GB SATA SSD
 (I have already ordered a small replacement PC to become my permanent router solution)
 
-I have some devices and a sinlge switch with 2.5gb NICs, but mostly 1gb switches and devices. I have attempted to wire my entire house so that only my phone/surface/laptop uses wireless LAN, and it's an old 802.11ac router in bridge mode to serve as my only WAP.
+I have some devices and a single switch with 2.5gb NICs, but mostly 1gb switches and devices. I have attempted to wire my entire house so that only my phone/surface/laptop uses wireless LAN, and it's an old 802.11ac router in bridge mode to serve as my only WAP.
 
 ### Other stuff
 
@@ -84,4 +84,4 @@ As would be expected of someone of my age, I have some retro and retro-simulatin
 - An Amiga One x5000
 - A Nintendo Wii
 - A Playstation 3 (slim)
-- A Raspberry Pi
+- A Raspberry Pi (Was a retro gaming device, nw just sits there waiting for a project!)
