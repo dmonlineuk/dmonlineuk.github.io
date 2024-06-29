@@ -64,6 +64,10 @@ Picked this Asus TUF laptop up for cheap as B-Grade (major scratches, but all co
 
 It's an old surface. I can't bring myself to replace it yet, but I'm likely ot go for a cheap iPad when I do.
 
+### Printer
+
+A single MFD: Lexmark CX310DN
+
 ### Network
 
 My router is another PC that is just spare parts that I can't bring myself to part with:
