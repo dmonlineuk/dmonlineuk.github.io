@@ -38,12 +38,12 @@ My first problem: Secure boot! Turns out it's a whole other thing that Linux use
 
 Now I'm booted, and am at the console:
 
-```
+```console
 Arch Linux 6.8.8-arch1-1 (tty1)
 
 archiso login: root (automatic login)
 
-To install \textcolor{cyan}(Arch Linux) follow the installation guide:
+To install Arch Linux follow the installation guide:
 https://wiki.archlinux.org/title/Installation_guide
 
 For Wi-Fo, authenticate to the wireless network using the iwctl utility.
