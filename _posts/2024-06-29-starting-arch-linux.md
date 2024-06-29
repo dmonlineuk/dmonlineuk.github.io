@@ -104,4 +104,16 @@ So, again, here I am blogging from my Arch install on one of my gaming PCs. I'll
 
 ---
 
-#### Snippets
+#### Snippets (via gists)
+
+[Example archinstall user_configuration.json](https://gist.github.com/dmonlineuk/46b6dd626f09d5dcf9f0803679d66227)
+
+[Linux equivalent to NET USE for network share drive mapping](https://gist.github.com/dmonlineuk/f921a0836297a3401ac38ba90cf2760b)
+
+[Enable Multilib packages](https://gist.github.com/dmonlineuk/1fd3820dff2df328aec28bbbe2a95b37)
+
+[Install yay for user package installations](https://gist.github.com/dmonlineuk/f5a2787b04075960aab40bf9a26b909c)
+
+[Install printer server and drivers](https://gist.github.com/dmonlineuk/f10f837d1ebe5da170246830d1d46dfa)
+
+[Install other software](https://gist.github.com/dmonlineuk/399937da3c2da47f62733febafafdea1)
