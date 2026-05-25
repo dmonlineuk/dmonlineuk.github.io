@@ -12,7 +12,7 @@ Technologies I work with include:
 
 ## My equipment
 
-Most are self-built and frankensteined machines:
+Most are self-built and 'frankensteined' machines:
 
 - UNRAID NAS and Virtual Machine host
 - Self Built Gaming PC
