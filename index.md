@@ -1,33 +1,32 @@
 ## Who am I?
 
-I am a technology enthusiast. I also happen to work in the industry, somewhat. I enjoy music, amateur coding, data analysis and gaming. I work as a Data Engineer in the healthcare industry.
+My background is rooted in a long‑standing curiosity about how technology works. Today, I apply that interest professionally as a Data Engineer in the healthcare sector. Outside of work, I continue to explore technology through hobby projects, data experiments, and a general interest in computing and digital culture.
 
 Technologies I work with include:
 
-- T-SQL
-- Python
-- Azure
-- Kubernetes
-- Docker
+- **T‑SQL** — core data manipulation and optimisation
+- **Python** — scripting, automation, and data processing
+- **Azure** — cloud services and infrastructure
+- **Kubernetes** — container orchestration and deployment
+- **Docker** — containerisation for development and testing
 
-## My equipment
+## My Equipment
 
-Most are self-built and 'frankensteined' machines:
+Most of my hardware consists of self‑built or repurposed machines, assembled gradually over time to suit specific roles:
 
-- UNRAID NAS and Virtual Machine host
-- Self Built Gaming PC
-- Mini PC as router
-- Mini PC used to remote onto virtual machines
-- Asus Gaming Laptop
-- Surface 4, re-purposed as a dev machine
-- Old laptop re-purposed as a syslog receiver
-- Asus ROG Ally (running SteamOS)
-- Steam Deck
-- Pi 500+ for retro gamiing
+- **UNRAID** NAS and virtual machine host
+- **Self‑built gaming PC**
+- **Mini PC as router**
+- **Mini PC for remote access**
+- **Asus gaming laptop**
+- **Surface 4 repurposed for development**
+- **Old laptop as syslog receiver**
+- **Asus ROG Ally running SteamOS**
+- **Steam Deck**
+- **Raspberry Pi 500+ for retro gaming**
 
-Plus others
+Plus a number of other small devices and experimental setups.
 
 ## Blogging (blog.dmonline.uk)
 
-I am picking up new skills and learning tricks, and as I go, I'd like to share my experiences. Feel free to join me on the ride. If you want to view my public repositores, they can be found here: git.dmonline.uk
-
+I use my blog to document the skills I am developing, the problems I encounter, and the solutions I discover along the way. My aim is to provide clear, practical notes that may be useful to others working with similar technologies. If you would like to explore my public repositories, they are available at: **git.dmonline.uk**
