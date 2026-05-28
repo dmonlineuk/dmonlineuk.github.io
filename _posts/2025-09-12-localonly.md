@@ -48,7 +48,7 @@ If using a physical machine, simply remain disconnected from the network during 
 ipconfig /release
 ```
 1. Continue through OOBE until Windows asks you to connect to the internet.
-1. Select `I don't have internet` at the bottom of the screen.
+1. Select **I don't have internet** at the bottom of the screen.
 1. Windows will now allow you to create a local account.
 
 **Virtual machines:** It’s often easier to install Windows with no virtual NIC attached, then add it after setup.
